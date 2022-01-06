@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\CodingChallengeDay1\CodingChallengeDay1\bin\Debug\CodingChallengeDay1.exe.config
+C:\ElevenFiftyProjects\CodingChallengeDay1\CodingChallengeDay1\bin\Debug\CodingChallengeDay1.exe
+C:\ElevenFiftyProjects\CodingChallengeDay1\CodingChallengeDay1\bin\Debug\CodingChallengeDay1.pdb
+C:\ElevenFiftyProjects\CodingChallengeDay1\CodingChallengeDay1\obj\Debug\CodingChallengeDay1.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\CodingChallengeDay1\CodingChallengeDay1\obj\Debug\CodingChallengeDay1.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\CodingChallengeDay1\CodingChallengeDay1\obj\Debug\CodingChallengeDay1.exe
+C:\ElevenFiftyProjects\CodingChallengeDay1\CodingChallengeDay1\obj\Debug\CodingChallengeDay1.pdb
