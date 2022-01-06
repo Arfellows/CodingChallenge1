@@ -10,7 +10,7 @@ namespace ChallengeThree
     {
         static void Main(string[] args)
         {
-            public string IsValid(string input)
+            public bool IsValid(string input)
             {
 
             }
