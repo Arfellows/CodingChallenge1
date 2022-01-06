@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CodingChallengeDay1
 {
-    class Program
+    class ChallengeOne
     {
         static void Main(string[] args)
         {
